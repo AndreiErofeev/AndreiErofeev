@@ -2,9 +2,9 @@
 
 ## Senior Machine Learning Engineer
 
-```
-linkedin | google scholar | andrei.erofeev.ds@gmail.com 
-```
+[My LinkedIn](https://linkedin.com/in/andrei-erofeev) | [My google scholar](https://scholar.google.com/citations?user=ZQv8aSgAAAAJ&hl=en&is_milestone=1) | andrei.erofeev.ds@gmail.com 
+
+
 ## Summary
 
 Senior Machine Learning Engineer with over 6 years of experience designing, deploying and scaling
