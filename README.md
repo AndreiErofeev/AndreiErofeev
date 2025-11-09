@@ -20,13 +20,11 @@ functional teams to deliver production-ready ML services.
 
 - Data Science:Python (Numpy, Pandas, PySpark), PyTorch, Scikit-Learn, XGBoost/LightGBM,
     SHAP, Optuna, Spark, Databricks, Huggingface, LLMs, RAG, Statistics, A/B Testing
-- MLOps:Docker, MLFlow, KubeFlow, Gitlab CI/CD, Kubernetes, ArgoCD, Google Cloud, Ver-
-    texAI, S3, AWS, Microsoft Azure
+- MLOps:Docker, MLFlow, KubeFlow, Gitlab CI/CD, Kubernetes, ArgoCD, Google Cloud, VertexAI, S3, AWS, Microsoft Azure
 - Visualization & BI:Tableau, Power BI, Matplotlib, Plotly, Seaborn.
 - Software Engineering: Algorithms, Unit Testing, Unix Shell, SQL, AI-assisted development
     (copilot, cursor, chatGPT, Claude code).
-- Soft Skills: Agile/Scrum, cross-functional collaboration, mentoring junior colleagues, client pre-
-    sentations, stakeholder management.
+- Soft Skills: Agile/Scrum, cross-functional collaboration, mentoring junior colleagues, client presentations, stakeholder management.
 
 ## Professional Experience
 
